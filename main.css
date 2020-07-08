@@ -1,0 +1,10 @@
+#loading, #results {
+    display: none;
+  }
+
+.bg-city {
+    background-image: url("./img/skyscrapers.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-color: rgba(0,0,0,0.5);
+}
